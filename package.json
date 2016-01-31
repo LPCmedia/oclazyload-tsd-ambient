@@ -1,0 +1,15 @@
+{
+  "name": "retyped-oclazyload-tsd-ambient",
+  "description": "TypeScript typings for oclazyload",
+  "version": "0.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/oclazyload-tsd-ambient",
+  "typescript": {
+    "definition": "oclazyload.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
